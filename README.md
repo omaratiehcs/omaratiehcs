@@ -1,6 +1,6 @@
 # Hi, I'm Omar Atieh 👋
 
-🎓 **Computer Science Graduate** from the Lebanese International University (LIU)  
+🎓 **Computer Science Graduate** from the Lebanese International University (LIU) — GPA: 3.85/4.0
 🛡️ **CompTIA Security+ Certified**  
 📍 Lebanon  
 
